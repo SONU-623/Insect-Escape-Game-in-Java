@@ -20,3 +20,6 @@
 - **Eclipse IDE**  
 
 ---
+
+## 📸 Screenshots 
+[Click here to view screenshots of various phases of game](Insect Escape Screenshots.pdf)
