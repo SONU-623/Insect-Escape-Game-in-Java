@@ -21,4 +21,7 @@
 
 ---
 
+## 📸 Screenshots  
+https://github.com/SONU-623/Insect-Escape-Game-in-Java/blob/main/Insect%20Escape%20Screenshots.pdf
+
 
